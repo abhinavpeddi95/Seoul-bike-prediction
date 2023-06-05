@@ -3,14 +3,14 @@
 This repository contains code and resources for predicting the bike rental demand in Seoul. The project utilizes a dataset of historical bike rental records to train and evaluate machine learning models for demand prediction.
 
 # Dataset
-The dataset used in this project is sourced from the Seoul Bike Sharing System. It includes information such as date, time, weather conditions, and the number of bikes rented. The dataset can be found in the google drive link. 
+The dataset used in this project is sourced from the Seoul Bike Sharing System. It includes information such as date, time, weather conditions, and the number of bikes rented. The dataset can be found in the google drive [link](https://drive.google.com/file/d/1lfgJXAJJIYmSJq6Tj4feqPBUQfEBndh6/view?usp=drive_link). 
 
 # Project Structure
 The repository is structured as follows:
 
 <b>Seoul_bike_prediction.csv</b>: This file contains the dataset used for training and testing the models. To view the dataset click [here](https://drive.google.com/file/d/1lfgJXAJJIYmSJq6Tj4feqPBUQfEBndh6/view?usp=drive_link)
 
-<b>Seoul_bike_prediction</b>: This directory contains Jupyter notebooks used for data exploration, preprocessing, model training, and evaluation.
+<b>Seoul_bike_prediction.ipynb</b>: This directory contains Jupyter notebooks used for data exploration, preprocessing, model training, and evaluation.
 
 # Requirements
 To run the code in this repository, you need the following dependencies:
