@@ -12,21 +12,22 @@ The repository is structured as follows:
 
 <b>Seoul_bike_prediction</b>: This directory contains Jupyter notebooks used for data exploration, preprocessing, model training, and evaluation.
 
-#To run the code in this repository, you need the following dependencies:
+# Requirements
+To run the code in this repository, you need the following dependencies:
 
 Python 3.7 or above
 Required Python libraries listed in the requirements.txt file. Install them using pip install -r requirements.txt.
 
-#Usage
+# Usage
 Clone or download this repository to your local machine.
 Install the required dependencies as mentioned in the Requirements section.
 Place the dataset file(s) in the data/ directory.
 Explore the Jupyter notebooks in the notebooks/ directory to understand the project flow and execute code cells.
 Perform data preprocessing, train models, and evaluate the bike rental demand prediction using the provided notebooks.
 
-#Contributing
+# Contributing
 Contributions to this project are welcome. If you have any suggestions, bug reports, or improvements, feel free to open an issue or submit a pull request.
 
-#License
+# License
 The dataset is obtained as per MIT License. Feel free to use the code, modify it, or distribute the dataset as per the terms of the MIT license.
 
